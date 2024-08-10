@@ -1,7 +1,6 @@
 # Python-Projects
 <br>
-Author- Syed Rahaman
+This Repository contains Python Mini and major projects, feel free to change and enjoy the codes
 <br>
-This Repository contains Python Mini and major projects
-Peace
+Peace!...
 
